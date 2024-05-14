@@ -1,0 +1,4 @@
+1,Normal,Availible,2000
+2,VIP,Availible,5000
+3,VVIP,Not Availible,1000.0
+4,President,Availible,100000.0
